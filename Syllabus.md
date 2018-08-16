@@ -1,5 +1,3 @@
-PART &quot;A&quot;:  SUGGESTED FORMAT TO BE COMPLETED BY INSTRUCTOR
-
 Norco College
 
 A college of the Riverside Community College District
