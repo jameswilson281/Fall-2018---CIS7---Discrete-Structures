@@ -14,7 +14,7 @@ A college of the Riverside Community College District
 
 **Office/Phone: N/A                Office Hours: N/A
 
-**Class Hours: M 2-3:25, W 2-4:35  Class Location: CACT 2
+**Class Hours: TBD  Class Location: TBD
 
 **Section Code:               **
 
@@ -37,15 +37,16 @@ This course is an introduction to the discrete structures used in Computer Scien
  |
 | --- |
 
-**TEXTBOOK REQUIREMENTS:**
+**RECOMMENDED TEXTBOOK**
 
 Gersting, Judith L., _Mathematical Structures for Computer Science__: Discrete Mathematics and its Applications 7th Edition_. W.H. Freeman and Company, 2014.
 
 **COURSE POLICIES**
 
-- Course assignments will be done electronically and submitted via GitHub.  I will provide a tutorial on the first day of class.
+- Course assignments will be done electronically and submitted via GitHub.
 - Remember that the lab PC&#39;s are wiped nightly.  Always save your work in the cloud.
-- Coding assignments will require Visual Studio.  Non coding assignments can be done using a text editor of your choice.
+- Coding assignments will be done in C++.
+- Non-coding assignments will be done in markdown format.  Include the question text in your assignment.
 - Late assignments will be accepted but points will be deducted.
 - There will be no make-up exams except for extraordinary circumstances
 
@@ -53,17 +54,17 @@ Gersting, Judith L., _Mathematical Structures for Computer Science__: Discrete M
 
 **CLASSROOM POLICIES**
 
-1. be respectful to whoever is speaking
+1. Be respectful to whoever is speaking
 2. Students may discuss assignments and labs amongst each other but be mindful of #1 if I interrupt everyone to make announcements
-3. students may use online resources to assist in lab assignments, however make sure you understand the material and don&#39;t just blindly copy code
-4. absolutely no misuse of lab equipment will be tolerated.  the computers in the lab are for assignments only
+3. Students may use online resources to assist in lab assignments, however make sure you understand the material and don&#39;t just blindly copy code
+4. Absolutely no misuse of lab equipment will be tolerated.  The computers in the lab are for assignments only
 
 **IMPORTANT DATES (check web advisor and select &quot;My schedule/deadlines&quot;)**
 
-| Last day to add: | 9/8 |
+| Last day to add: | TBD |
 | --- | --- |
-| Last day to drop with a refund and without a W: | 9/10 |
-| Last day to drop with a W: | 11/17 |
+| Last day to drop with a refund and without a W: | TBD |
+| Last day to drop with a W: | TBD |
 
 **Adding this class**
 
@@ -110,19 +111,19 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 
 | **Week** | **Week Start Date** | **Subject Material** | **Chapter Reading/Assignments** |
 | --- | --- | --- | --- |
-| Week 1 | 8/28 | Propositional Logic | 1.1 |
-| Week 2 | 9/4 | Propositional Logic | 1.2 &amp; 1.3 |
-| Week 3 | 9/11 | _Programming Exercises_ | Chapter 1 &quot;On The Computer&quot; |
-| Week 4 | 9/18 | Proofs, Induction | 2.1 – 2.2 |
-| Week 5 | 9/25 | Correctness, Number Theory | 2.3 – 2.4 |
-| Week 6 | 10/2 | _Programming Exercises_ | Chapter 2 &quot;On the Computer&quot; |
-| Week 7 | 10/9 | _Programming Exercises_ | Towers of Hanoi Lab Project |
-| Week 8 | 10/16 | Recursion &amp; Recurrence | 3.1 – 3.2 |
-| Week 9 | 10/23 | Analysis of Algorithms | 3.3 |
-| Week 10 | 10/30 | _Programming Exercises_ | Review |
-| Week 12 | 11/6 | Sets, Combinatorics &amp; Probability | Chapter 4 |
-| Week 13 | 11/13 | _Programming Exercises_ | Chapter 4 &quot;On the Computer&quot; |
-| Week 14 | 11/20 | Graphs &amp; Trees | 6.1 – 6.3 |
-| Week 15 | 11/27 | Graph Algorithms | Chapter 7 |
-| Week 16 | 12/4 | Graph Algorithms (cont&#39;d) | Chapter 7 |
-| Final | 12/11 |   | Final Exam |
+| Week 1 | TBD | Propositional Logic | 1.1 |
+| Week 2 | TBD | Propositional Logic | 1.2 &amp; 1.3 |
+| Week 3 | TBD | _Programming Exercises_ | Chapter 1 &quot;On The Computer&quot; |
+| Week 4 | TBD | Proofs, Induction | 2.1 – 2.2 |
+| Week 5 | TBD | Correctness, Number Theory | 2.3 – 2.4 |
+| Week 6 | TBD | _Programming Exercises_ | Chapter 2 &quot;On the Computer&quot; |
+| Week 7 | TBD | _Programming Exercises_ | Towers of Hanoi Lab Project |
+| Week 8 | TBD | Recursion &amp; Recurrence | 3.1 – 3.2 |
+| Week 9 | TBD | Analysis of Algorithms | 3.3 |
+| Week 10 | TBD | _Programming Exercises_ | Review |
+| Week 12 | TBD | Sets, Combinatorics &amp; Probability | Chapter 4 |
+| Week 13 | TBD | _Programming Exercises_ | Chapter 4 &quot;On the Computer&quot; |
+| Week 14 | TBD | Graphs &amp; Trees | 6.1 – 6.3 |
+| Week 15 | TBD | Graph Algorithms | Chapter 7 |
+| Week 16 | TBD | Graph Algorithms (cont&#39;d) | Chapter 7 |
+| Final | TBD |   | Final Exam |
