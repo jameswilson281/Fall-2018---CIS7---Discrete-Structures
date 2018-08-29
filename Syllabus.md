@@ -108,7 +108,7 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 
 
 | **Week** | **Week Start Date** | **Subject Material** | **Chapter Reading/Assignments** | **Optional Material**
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Week 1 | TBD | Propositional Logic | 1.1-1.3 | [Logic 1](https://www.youtube.com/watch?v=itrXYg41-V0) [Truth Tables](https://www.youtube.com/watch?v=UiGu57JzLkE) |
 | Week 3 | TBD | _Programming Exercises_ | Chapter 1 &quot;On The Computer&quot; | TBD |
 | Week 4 | TBD | Proofs, Induction | 2.1 – 2.2 | TBD |
@@ -123,4 +123,4 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 | Week 14 | TBD | Graphs &amp; Trees | 6.1 – 6.3 | TBD |
 | Week 15 | TBD | Graph Algorithms | Chapter 7 | TBD |
 | Week 16 | TBD | Graph Algorithms (cont&#39;d) | Chapter 7 | TBD |
-| Final | TBD |   | Final Exam | TBD |
+| Final | TBD | N/A  | Final Exam | TBD |
