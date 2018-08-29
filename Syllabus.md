@@ -109,18 +109,20 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 
 | **Week** | **Week Start Date** | **Subject Material** | **Chapter Reading/Assignments** | **Optional Material**
 | --- | --- | --- | --- | --- |
-| Week 1 | TBD | Propositional Logic | 1.1-1.3 | [Logic 1](https://www.youtube.com/watch?v=itrXYg41-V0) [Truth Tables](https://www.youtube.com/watch?v=UiGu57JzLkE) |
-| Week 3 | TBD | _Programming Exercises_ | Chapter 1 &quot;On The Computer&quot; | TBD |
-| Week 4 | TBD | Proofs, Induction | 2.1 – 2.2 | TBD |
-| Week 5 | TBD | Correctness, Number Theory | 2.3 – 2.4 | TBD |
-| Week 6 | TBD | _Programming Exercises_ | Chapter 2 &quot;On the Computer&quot; | TBD |
-| Week 7 | TBD | _Programming Exercises_ | Towers of Hanoi Lab Project | TBD |
-| Week 8 | TBD | Recursion &amp; Recurrence | 3.1 – 3.2 | TBD |
-| Week 9 | TBD | Analysis of Algorithms | 3.3 | TBD |
-| Week 10 | TBD | _Programming Exercises_ | Review | TBD |
-| Week 12 | TBD | Sets, Combinatorics &amp; Probability | Chapter 4 | TBD |
-| Week 13 | TBD | _Programming Exercises_ | Chapter 4 &quot;On the Computer&quot; | TBD |
-| Week 14 | TBD | Graphs &amp; Trees | 6.1 – 6.3 | TBD |
-| Week 15 | TBD | Graph Algorithms | Chapter 7 | TBD |
-| Week 16 | TBD | Graph Algorithms (cont&#39;d) | Chapter 7 | TBD |
+| Week 1 | TBD | Propositional Logic | 1.1-1.3 | [Video: Logic 1](https://www.youtube.com/watch?v=itrXYg41-V0)  
+[Video: Truth Tables](https://www.youtube.com/watch?v=UiGu57JzLkE) |
+| Week 2 | TBD | TBD | TBD | TBD |
+| Week 3 | TBD | TBD | TBD | TBD |
+| Week 4 | TBD | TBD | TBD | TBD |
+| Week 5 | TBD | TBD | TBD | TBD |
+| Week 6 | TBD | TBD | TBD | TBD |
+| Week 7 | TBD | TBD | TBD | TBD |
+| Week 8 | TBD | TBD | TBD | TBD |
+| Week 9 | TBD | TBD | TBD | TBD |
+| Week 10 | TBD |TBD | TBD | TBD |
+| Week 12 | TBD | TBD | TBD | TBD |
+| Week 13 | TBD | TBD | TBD | TBD |
+| Week 14 | TBD | TBD | TBD | TBD |
+| Week 15 | TBD | TBD | TBD | TBD |
+| Week 16 | TBD | TBD | TBD | TBD |
 | Final | TBD | N/A  | Final Exam | TBD |
