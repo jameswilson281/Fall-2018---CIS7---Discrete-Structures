@@ -109,7 +109,7 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 
 | **Week** | **Week Start Date** | **Subject Material** | **Chapter Reading/Assignments** |
 | --- | --- | --- | --- |
-| Week 1 | TBD | Propositional Logic | 1.1 |
+| Week 1 | TBD | Propositional Logic | 1.1 OR https://www.youtube.com/watch?v=itrXYg41-V0&feature=youtu.be |
 | Week 2 | TBD | Propositional Logic | 1.2 &amp; 1.3 |
 | Week 3 | TBD | _Programming Exercises_ | Chapter 1 &quot;On The Computer&quot; |
 | Week 4 | TBD | Proofs, Induction | 2.1 – 2.2 |
