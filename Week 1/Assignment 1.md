@@ -1,5 +1,5 @@
 # CIS 7 - Discrete Structures - Assignment 1
-Due TBD
+Due 11/17 11:59:59pm
 
 Part 1: Write a program in C++ that will parse a string and indicate whether or not it is a WFF (10 pts)
   - [ ] Prompt the user for a string input
