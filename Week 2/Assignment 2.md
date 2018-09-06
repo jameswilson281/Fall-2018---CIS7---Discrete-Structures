@@ -1,5 +1,5 @@
 # CIS 7 - Discrete Structures - Assignment 1
-Due TBD
+Due 11/17 11:59:59pm
 
 Part 1: (15 points)
  - [ ] Create a file called "Assignment 2.md" in your github repository
@@ -18,4 +18,5 @@ Part 3: Upload your assignment to GitHub as "Assignment 2.md" and email me
 Student Name
 Assignment #
 URL to .md file on GitHub
+URL to .cpp file on GitHub (for part 2)
 ```
