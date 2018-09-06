@@ -110,7 +110,7 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 | **Week** | **Week Start Date** | **Subject Material** | **Chapter Reading/Assignments** | **Optional Material**
 | --- | --- | --- | --- | --- |
 | Week 1 | 8/27 | Propositional Logic | 1.1-1.3 | [Video 1: Logic 1](https://www.youtube.com/watch?v=itrXYg41-V0) & [Video 2: Truth Tables](https://www.youtube.com/watch?v=UiGu57JzLkE) |
-| Week 2 | 9/3 | Logic Laws & Predicate Logic | 1.2-1.3 | [Video 1: Logic Laws](https://www.youtube.com/watch?v=eihhu72YdpQ) & Video 2: Predicate Logic](https://www.youtube.com/watch?v=gyoqX0W-NH4)|
+| Week 2 | 9/3 | Logic Laws & Predicate Logic | 1.2-1.3 | [Video 1: Logic Laws](https://www.youtube.com/watch?v=eihhu72YdpQ) & [Video 2: Predicate Logic](https://www.youtube.com/watch?v=gyoqX0W-NH4)|
 | Week 3 | TBD | TBD | TBD | TBD |
 | Week 4 | TBD | TBD | TBD | TBD |
 | Week 5 | TBD | TBD | TBD | TBD |
