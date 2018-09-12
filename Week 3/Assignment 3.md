@@ -40,6 +40,9 @@ City(x) mean “x is a city,” Lives(x,y) mean “x lives in y.”
 ```
 Assuming: p → (q ∧r ), s → r , r → p
 Prove: s → q.
+
+Assuming: ¬(r ∨ s), ¬p → s, p → q. 
+Prove: q
 ```
   
 Part 5: Upload your assignment to GitHub as "Assignment 3.md" and email me  
