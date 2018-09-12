@@ -4,7 +4,8 @@ Due 11/17 11:59:59pm
 ## Part 1: (5 points)  
 
 ```Let S = it is sunny, C = camping is fun, H = the homework is
-done, and M = mathematics is easy.```  
+done, and M = mathematics is easy.
+```  
 
  - [ ] Translate into English: (M → H)∧(S →C)
  - [ ] Translate into Propositional Logic: “Mathematics is easy or camping is fun, as long as it is sunny and the homework is done.”
