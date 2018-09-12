@@ -3,7 +3,8 @@ Due 11/17 11:59:59pm
 
 ## Part 1: (5 points)  
 
-```Let S = it is sunny, C = camping is fun, H = the homework is
+```
+Let S = it is sunny, C = camping is fun, H = the homework is
 done, and M = mathematics is easy.
 ```  
 
@@ -16,7 +17,8 @@ done, and M = mathematics is easy.
   
 ## Part 3: (5 points)
 
-```For each of the following pairs of propositions, show that the
+```
+For each of the following pairs of propositions, show that the
 two propositions are logically equivalent by finding a chain of equivalences from one
 to the other. State which definition or law of logic justifies each equivalence in the
 chain.
@@ -26,8 +28,10 @@ chain.
  
 ## Part 4: (5 points)
 
-```Let Loves(x,y) mean “x loves y,” Traveler(x) mean “x is a traveler,”
-City(x) mean “x is a city,” Lives(x,y) mean “x lives in y.”```
+```
+Let Loves(x,y) mean “x loves y,” Traveler(x) mean “x is a traveler,”
+City(x) mean “x is a city,” Lives(x,y) mean “x lives in y.”
+```
 
  - [ ] Translate into English: ∃x∀y∀z(C i t y(x)∧Tr aveler (y)∧Li ves(z,x)) → (Loves(y,x)∧ ¬Loves(z,x))
  - [ ] Translate into Predicate Logic: “No traveler loves the city they live in.”
