@@ -1,2 +1,6 @@
-| **Week** | **Week Start Date** | **Subject Material** | **Chapter Reading/Assignments** | **Optional Material**
-| --- | --- | --- | --- | --- |
+```
+(¬B → ¬A) → ((¬B → A) → B)
+```
+
+| A | B | ¬A | ¬B | ¬B -> ¬A | ¬B -> A | ((¬B -> A) -> B
+| --- | --- | --- | --- | --- | --- | ---
