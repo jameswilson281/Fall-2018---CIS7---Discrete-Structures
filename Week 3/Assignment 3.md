@@ -43,6 +43,10 @@ Prove: s → q.
 
 Assuming: ¬(r ∨ s), ¬p → s, p → q. 
 Prove: q
+
+HINT:
+Modus Ponen: If x -> q, and x, then q
+Modus Tollens: If x -> q, and ~q, then ~x
 ```
   
 Part 5: Upload your assignment to GitHub as "Assignment 3.md" and email me  
