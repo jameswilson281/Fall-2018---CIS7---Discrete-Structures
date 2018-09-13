@@ -33,7 +33,7 @@ Let Loves(x,y) mean “x loves y,” Traveler(x) mean “x is a traveler,”
 City(x) mean “x is a city,” Lives(x,y) mean “x lives in y.”
 ```
 
- - [ ] Translate into English: ∃x∀y∀z(C i t y(x)∧Tr aveler (y)∧Li ves(z,x)) → (Loves(y,x)∧ ¬Loves(z,x))
+ - [ ] Translate into English: ∃x∀y∀z(City(x) ∧ Traveler (y)∧Li ves(z,x)) → (Loves(y,x)∧ ¬Loves(z,x))
  - [ ] Translate into Predicate Logic: “No traveler loves the city they live in.”
   
 ## Extra Credit: (5 points)
@@ -43,6 +43,10 @@ Prove: s → q.
 
 Assuming: ¬(r ∨ s), ¬p → s, p → q. 
 Prove: q
+
+HINT:
+Modus Ponen: If x -> q, and x, then q
+Modus Tollens: If x -> q, and ~q, then ~x
 ```
   
 Part 5: Upload your assignment to GitHub as "Assignment 3.md" and email me  
