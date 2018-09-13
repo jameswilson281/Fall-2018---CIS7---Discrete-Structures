@@ -24,7 +24,7 @@ to the other. State which definition or law of logic justifies each equivalence 
 chain.
 ```
  - [ ] (p ∧ q) → r , p → (q → r )
- - [ ] (q ∨r ) → p, (q → p)∧(r → p)
+ - [ ] (q ∨ r ) → p, (q → p)∧(r → p)
  
 ## Part 4: (5 points)
 
