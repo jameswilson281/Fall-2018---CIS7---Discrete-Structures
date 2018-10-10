@@ -115,7 +115,7 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 | Week 4 | 9/17 | No Class | No Class | No Class  |
 | Week 5 | 9/24 | Proofs, Induction | 2.1 – 2.2 | [Video 1: Direct Proofs](https://www.youtube.com/watch?v=YFZzLQN5qOU&feature=youtu.be) [Video 2: Contraposition](https://www.youtube.com/watch?v=X-hJ7krLBn0&feature=youtu.be) [Video 3: Induction](https://www.youtube.com/watch?v=Tm2PJPvAULs&feature=youtu.be) |
 | Week 6 | 10/1 | Number Theory | 2.3 – 2.4 | [Video 1: Divisibility](https://www.youtube.com/watch?v=K2YmMpulFA4&feature=youtu.be) [Video 2: Euclidean Algorithm](https://www.youtube.com/watch?v=cOwyHTiW4KE) |
-| Week 7 | 10/8 | TBD | TBD | TBD |
+| Week 7 | 10/8 | Recursion and Recurrence | 3.1 - 3.2 | [Video 1: Recurrence](https://www.youtube.com/watch?v=eAaP4XaB8hM&feature=youtu.be) |
 | Week 8 | 10/15 | TBD | TBD | TBD |
 | Week 9 | 10/22 | TBD | TBD | TBD |
 | Week 10 | 10/29 |TBD | TBD | TBD |
